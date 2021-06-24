@@ -1,0 +1,9 @@
+{
+    "name": "test-comp/gitcomp",
+    "autoload": {
+        "psr-4": {
+            "TestComp\\Gitcomp\\": "src/"
+        }
+    },
+    "require": {}
+}
